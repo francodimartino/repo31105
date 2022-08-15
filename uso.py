@@ -4,6 +4,8 @@ from paquete.clases import Persona
 
 var=Persona("Juan", "Perez", 30, "12345678")
 
+#este es un comentario
+
 
 
 
